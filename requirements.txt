@@ -11,6 +11,7 @@ langchain==0.0.283  # Replace with the correct version you're using
 
 # MySQL Connector
 mysql-connector-python==8.1.0
+mysql
 
 # PyMySQL
 pymysql==1.0.3
